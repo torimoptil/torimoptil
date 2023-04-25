@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @torimoptil
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning C++/Python/Kali Linux
-- 💞️ I’m looking to collaborate on Source-Coding
+- 💞️ I’m looking to collaborate on GTP4 progress
 - 📫 How to reach me teinableji@gmail.com
 
 <!---
